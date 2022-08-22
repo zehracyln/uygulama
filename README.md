@@ -1,0 +1,2 @@
+# uygulama
+spring uygulaması(full)
